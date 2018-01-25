@@ -1,2 +1,2 @@
 # Contributors
--Shlok Jhawar
+- Shlok Jhawar (shlokj)
