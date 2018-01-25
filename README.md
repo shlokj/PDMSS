@@ -1,5 +1,5 @@
 # PDMSS
-For the Rover of PDMSS
+For the Rover of PDMSS - Post Disaster Management and Surveillance System
 
 ![pdmssjoint](https://user-images.githubusercontent.com/34567765/35388090-6934667c-01f8-11e8-8e77-0362319642b1.jpg)
 
